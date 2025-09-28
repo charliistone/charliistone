@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student  
-- 🐍 Passionate about **Python** and **Artificial Intelligence**  
+- 🐍 Passionate about **Python**, **Artificial Intelligence**  and **DevOps**
 - 🤖 Exploring **Machine Learning, Neural Networks, and Data Science**  
 - 📚 Interested in building **AI-driven applications**  
 - 🎮 Love **gaming** (FPS & car games on Xbox)  
