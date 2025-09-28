@@ -1,13 +1,13 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hi+there!+I'm+Ahmet+Can+👋;Computer+Science;Python+%7C+AI+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+there!+I'm+Ahmet+Can+👋;Computer+Science;Python+%7C+AI+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student (4/4) at Ankara Science University
-- 🐍 Passionate about **Python**, **Artificial Intelligence**  and **DevOps**
+- 🐍 Passionate about **Python**, **Artificial Intelligence**, **DevOps** and **Mobile Programming**
 - 🤖 Exploring **Machine Learning, Neural Networks, and Data Science**  
-- 📚 Interested in building **AI-driven applications**
+- 📚 Interested in building **AI-driven applications** and **Mobile applications**
 - 🎶 Funk music always keeps me in flow 🎷  
 
 ---
