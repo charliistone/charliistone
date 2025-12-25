@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student (4/4) at Ankara Science University
 - 🐍 Passionate about **Python**, **Artificial Intelligence**, **DevOps** and **Mobile Programming**
-- 🤖 Exploring **Machine Learning, Neural Networks, and Data Science**  
+- 🤖 Exploring **Machine Learning, Mobile Programming, DevOps Tools**  
 - 📚 Interested in building **AI-driven applications** and **Mobile applications**
 - 🎶 Funk music always keeps me in flow 🎷  
 
@@ -14,10 +14,8 @@
 
 ## 🔧 Tech Stack
 **Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
@@ -34,17 +32,11 @@
 
 ---
 
-## 🚀 Featured Projects
-- [🤖 AI Research Notes](https://github.com/charliistone/AI-Learning) – My notes & experiments on **Machine Learning & Neural Networks**  
+## 🚀 Featured Projects  
 - [🎮 Quizzie Multiplayer Quiz Game](https://github.com/charliistone/Quizzie-Multiplayer-Quiz-Game) – Python multiplayer quiz platform with GUI  
-- [⚡ EV Charge App](https://github.com/charliistone/EV-Charge-App) – An app for managing EV charging stations  
-
----
-
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliistone&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charliistone&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=charliistone&theme=tokyonight&hide_border=true)  
+- [⚡ EV Charge App (Private Repository)](https://github.com/charliistone/EV-Charge-App) – An app for managing EV charging stations
+- [🛡️ TLS Fingerprint Bypass Tool] A specialized networking tool to emulate browser-specific TLS handshakes (JA3/JA3S) and bypass bot detection systems.
+- [✍️ AI Slogan Generator] – A creative marketing tool leveraging NLP models to generate catchy, brand-aligned slogans based on user keywords.
 
 ---
 
