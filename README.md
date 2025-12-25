@@ -1,5 +1,5 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&width=435&lines=Hi+there!+I'm+Ahmet+Can+👋;Computer+Science;Python+%7C+AI+;and+;Mobile Development+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&width=435&lines=Hi+there!+I'm+Ahmet+Can+👋;Computer+Science+Student;Python+%7C+AI+Enthusiast;Mobile+Development;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
