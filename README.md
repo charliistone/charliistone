@@ -3,16 +3,15 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science Student (4/4) at Ankara Science University
-- 🐍 Passionate about **Python**, **Artificial Intelligence**, **DevOps** and **Mobile Programming**
-- 🤖 Exploring **Machine Learning, Mobile Programming, DevOps Tools**  
-- 📚 Interested in building **AI-driven applications** and **Mobile applications**
-- 🎶 Funk music always keeps me in flow 🎷  
+## About Me
+- Computer Science Student (4/4) at Ankara Science University
+- Passionate about **Python**, **Artificial Intelligence**, **DevOps** and **Mobile Programming**
+- Exploring **Machine Learning, Mobile Programming, DevOps Tools**  
+- Interested in building **AI-driven applications** and **Mobile applications**
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
@@ -32,11 +31,11 @@
 
 ---
 
-## 🚀 Featured Projects  
-- [🎮 Quizzie Multiplayer Quiz Game](https://github.com/charliistone/Quizzie-Multiplayer-Quiz-Game) – Python multiplayer quiz platform with GUI  
-- [⚡ EV Charge App (Private Repository)](https://github.com/charliistone/EV-Charge-App) – An app for managing EV charging stations
-- [🛡️ TLS Fingerprint Bypass Tool] A specialized networking tool to emulate browser-specific TLS handshakes (JA3/JA3S) and bypass bot detection systems.
-- [✍️ AI Slogan Generator] – A creative marketing tool leveraging NLP models to generate catchy, brand-aligned slogans based on user keywords.
+## Featured Projects  
+- [Quizzie Multiplayer Quiz Game](https://github.com/charliistone/Quizzie-Multiplayer-Quiz-Game) – Python multiplayer quiz platform with GUI  
+- [EV Charge App (Private Repository)](https://github.com/charliistone/EV-Charge-App) – An app for managing EV charging stations
+- TLS Fingerprint Bypass Tool A specialized networking tool to emulate browser-specific TLS handshakes (JA3/JA3S) and bypass bot detection systems.
+- AI Slogan Generator – A creative marketing tool leveraging NLP models to generate catchy, brand-aligned slogans based on user keywords.
 
 ---
 
@@ -45,4 +44,4 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalifornium98@gmail.com)  
 
 ---
-⭐️ From [charliistone](https://github.com/charliistone)
+From [charliistone](https://github.com/charliistone)
